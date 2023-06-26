@@ -6,6 +6,8 @@ https://github.com/LeoAndo/flutter_use_palm_demo/blob/main/lib/data/repositories
 # development Memo
 https://github.com/LeoAndo/flutter_use_palm_demo/issues/1<br>
 
-# capture
-now state: Requesting access to PaLM API<br>
+# capture: case Success
+<img src="./2.png" width=50%>
+
+# capture: case Error
 <img src="./1.png" width=50%>
